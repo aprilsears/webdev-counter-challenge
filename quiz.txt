@@ -1,5 +1,9 @@
 1. Why do you use "using strict" at the top of your JS files?
+    Using strict catches errors, improves code readability, makes code more secure, and it prepares for future versions.
 2. What does line 3 mean?
+    Line 3 indicates that the counter starts at 0.
 3. What is happening on lines 5-8 and why?
+    The current count, reset, increase, and decrease buttons are set. This is happening in the js file because it is the interactive part of the app.
 4. If you implemented the functionality of the buttons,
    why do you think I wrote the JS code the way I did?
+    I think that you wrote it this way so we could figure out how to get the counter to actually count.
