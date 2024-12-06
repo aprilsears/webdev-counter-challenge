@@ -79,7 +79,7 @@ body {
     width: 90%;
     min-width: 500px;
     margin: auto;
-    
+
 }
 
 .app-card {
@@ -89,11 +89,11 @@ body {
     min-width: 500px;
     flex: 1;
     
-    
 }
 
 .message {
     font-size: var(--message-font-size);
+    align-content: space-between;
 }
 
 .count {
@@ -131,3 +131,4 @@ body {
 }
 
 
+}
